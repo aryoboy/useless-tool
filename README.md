@@ -6,3 +6,15 @@
 <br>
 <h3>Install</h3><hr>
 pkg install python2;pip2 install requests;pip2 install bs4;pkg install git;git clone https://github.com/asu-toolkit/useless-tool;cd useless-tool;python2 *py
+
+Cara install :
+$ pkg install curl
+$ pkg install python
+$ pkg install python2
+$ curl -o trash-eraser.py https://raw.githubusercontent.com/ASU-TOOLKIT/useless-tool/master/trash-eraser.py
+$ pip install bs4
+$ pip install requests
+
+Cara menjalankan :
+$ ls
+$ python2 trash-eraser.py
